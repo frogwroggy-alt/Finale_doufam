@@ -1,0 +1,6 @@
+Než začnete hrát tuto hru, musím vám říct možnosti a příběh.
+Možnost-A-Jít doleva
+        D-Jít doprava
+  [Mezerník]-Pokud chcete tasit mečem, tak držte toť tlačítko.
+Příběh
+Když jsi zemřel, měl jsi šanci si vybrat jakoukoliv cestu života, kterou bys žil. Jenže Thornhost, očaroval všechny cesty života do prokletých útvaru, kde trpaslíci či jiné varianty života mají utrpení. Tak jsi měl jenom jednu šanci, a to být člověkem, který neustále trpí. Takže se reinkarnuješ do rytíře, který spadl ze skály a pomalu umírá. Osvoboď duše, zachraň lidi ve vesnicích a zabij Thornhosta. Pak se dostaň za hradby do bezpečí, nejmenný rytíři.
